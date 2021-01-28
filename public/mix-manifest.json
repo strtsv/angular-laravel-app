@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/lib/angular/angular.js": "/js/lib/angular/angular.js",
+    "/js/lib/jquery/jquery.min.js": "/js/lib/jquery/jquery.min.js",
+    "/js/lib/bootstrap/bootstrap.min.js": "/js/lib/bootstrap/bootstrap.min.js",
+    "/js/controllers/employees.js": "/js/controllers/employees.js"
+}
